@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-tkz-kiviat
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	Draw Kiviat graphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-kiviat
