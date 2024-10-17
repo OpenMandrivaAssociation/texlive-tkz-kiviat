@@ -9,7 +9,7 @@ Version:	0.1
 Release:	12
 Summary:	Draw Kiviat graphs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-kiviat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-kiviat
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-kiviat.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-kiviat.doc.tar.xz
